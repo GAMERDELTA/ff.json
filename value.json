@@ -1,1 +1,8 @@
+{
+  "package": "target_process_name",
+  "search": "90 90 ?? FF",
+  "replace": "90 90 90 FF",
+  "max_matches": 5,
+  "patch_one": false
+}
 
